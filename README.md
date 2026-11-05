@@ -1,13 +1,13 @@
-# My Portfolio 👨‍💻
+# My Portfolio
 
 A personal portfolio website showcasing my skills, projects, education, and professional experience.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - HTML5
 - CSS3
 - JavaScript
 
-## ✨ Features
+## Features
 - Responsive design
 - Interactive UI and animations
 - Projects showcase
@@ -15,7 +15,7 @@ A personal portfolio website showcasing my skills, projects, education, and prof
 - Resume download
 - Contact information
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 git clone https://github.com/Dileepagrahari/My-Portfolio.git
@@ -24,11 +24,11 @@ cd My-Portfolio
 
 Open `index.html` in your browser or use VS Code Live Server.
 
-## 🌐 Live Demo
+## Live Demo
 
 [View My Portfolio](https://my-portfolio-nine-ruddy-56.vercel.app/)
 
-## 👨‍💻 Author
+## Author
 
 **Dileep Kumar**
 
@@ -36,4 +36,4 @@ Open `index.html` in your browser or use VS Code Live Server.
 
 ---
 
-⭐ If you like this project, give it a star!
+# If you like this project, give it a star!
